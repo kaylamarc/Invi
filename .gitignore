@@ -1,0 +1,6 @@
+# ignore local library files
+*.jar
+
+# ingore generated binary
+*.class
+/bin
